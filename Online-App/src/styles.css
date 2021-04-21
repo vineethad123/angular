@@ -1,0 +1,26 @@
+input.ng-invalid.ng-dirty{
+    border-bottom-color :brown !important;
+    box-shadow:0 1px 0 0 brown !important;
+}
+h2{
+    font-family:cursive;
+}
+body{    
+    background-image:url(/assets/image/images.jpg);  
+    background-repeat:repeat;
+  }  
+
+button.btn-submit{
+    width: 50%;
+}
+
+ul.answer li:hover{
+    background-color:sienna;
+    color: #eafaf9;
+    cursor: pointer;
+}
+
+ul li.selected{
+    background-color:sienna !important;
+    color: #eafaf9 !important;
+}
